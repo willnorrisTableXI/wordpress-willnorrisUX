@@ -1,0 +1,1 @@
+#mobile_menu li:not([id]) { display:none !important; }
